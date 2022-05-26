@@ -9,6 +9,7 @@ Ejecutar la función y guardar el resultado en una variable, mostrando el valor 
 console.log("El resultado es: " + suma(50, 60));*/
 
 
+
 /*A la función suma anterior, agregarle una validación para controlar si alguno de los
 parámetros no es un número, mostrar una alerta aclarando que uno de los parámetros tiene
 error y retornar el valor NaN como resultado.*/
@@ -25,6 +26,8 @@ error y retornar el valor NaN como resultado.*/
 }
 console.log("El resultado es: " + suma("string", 60));
 console.log("El resultado es: " + suma(45, 25));*/
+
+
 
 /*A la función suma del ejercicio 6b) agregarle una llamada que valide que los números
 sean enteros. En caso que haya decimales mostrar un alerta con el error y retorna el
