@@ -1,5 +1,4 @@
-/*Crear un array que contenga 5 palabras y recorrer dicho array
-utilizando un bucle for de JavaScript para mostrar una alerta
+/*Crear un array que contenga 5 palabras y recorrer dicho array utilizando un bucle for de JavaScript para mostrar una alerta
 utilizando cada una de las palabras.*/
 
 //var arrayfrutas = ["banana", "manzana", "naranja", "mandarina", "pera"];
@@ -8,12 +7,14 @@ utilizando cada una de las palabras.*/
     alert(arrayfrutas[contador]);
 }*/
 
-/*Al array anterior convertir la primera letra de cada palabra en mayúscula y
-mostrar una alerta por cada palabra modificada.*/
+
+
+/*Al array anterior convertir la primera letra de cada palabra en mayúscula y mostrar una alerta por cada palabra modificada.*/
 
 /*for(var contador = 0; contador < arrayfrutas.length; contador++){
     alert(arrayfrutas[contador].charAt(0).toUpperCase() + arrayfrutas[contador].slice(1).toLowerCase());
 }*/
+
 
 
 /*Crear una array vacío y con un bucle for de 10 repeticiones.
